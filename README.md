@@ -3,7 +3,8 @@
 <p align="center">
 Desarrolladora apasionada por la tecnología, el aprendizaje constante y la colaboración en proyectos innovadores.<br>
 Actualmente me dedico al desarrollo de software, enfocándome en <strong>front-end</strong> y <strong>back-end</strong>.<br>
-Siempre en búsqueda de nuevos retos y oportunidades para crecer profesionalmente.
+Siempre en búsqueda de nuevos retos y oportunidades para crecer profesionalmente.<br>
+<strong>Buscando empleo y socios para crear contenido</strong> (videojuegos, código, etc.).
 </p>
 
 ---
@@ -21,7 +22,3 @@ Siempre en búsqueda de nuevos retos y oportunidades para crecer profesionalment
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Misstery13&show_icons=true&theme=radical" alt="Misstery13 GitHub Stats"/>
-</p>
