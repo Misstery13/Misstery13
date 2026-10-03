@@ -1,3 +1,14 @@
+<h2 align="center">Hi, I'm Diana Melena 👋</h2>
+
+<p align="center">
+Software Engineering student (7th semester) and freelance developer since 2022.<br>
+I build things end to end — from the API to the server they run on.<br>
+<strong>Open to remote junior roles</strong> (full-stack · QA · IT support).
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diana-melena-santander-60211924b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="mailto:diana.melena25@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
@@ -57,6 +68,5 @@
 
 ---
 
-<img src="./github-metrics.svg" alt="Metrics">
 
 <p align="center"><sub>🇪🇨 Santa Elena, Ecuador · Spanish (native) · English (B2)</sub></p>
