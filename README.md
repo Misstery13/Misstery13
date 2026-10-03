@@ -70,3 +70,4 @@ I build things end to end — from the API to the server they run on.<br>
 
 
 <p align="center"><sub>🇪🇨 Santa Elena, Ecuador · Spanish (native) · English (B2)</sub></p>
+<img src="./github-metrics.svg" alt="Metrics">
