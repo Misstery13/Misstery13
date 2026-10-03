@@ -1,9 +1,8 @@
-<h2 align="center">Hi, I'm Diana Melena 👋</h2>
+<h2 align="center">Hi, I'm Diana 👋</h2>
 
 <p align="center">
-Software Engineering student (7th semester) and freelance developer since 2022.<br>
-I build things end to end — from the API to the server they run on.<br>
-<strong>Open to remote junior roles</strong> (full-stack · QA · IT support).
+Software Engineering student · Full-stack developer · Santa Elena, Ecuador<br>
+<strong>Open to remote junior roles</strong> — full-stack, QA or IT support
 </p>
 
 <p align="center">
@@ -18,56 +17,23 @@ I build things end to end — from the API to the server they run on.<br>
   </a>
 </p>
 
----
+### 🚀 Things I've built
 
-### 🔭 What I'm working on
+- **[Todo VPS](https://github.com/Misstery13/Diana-todo-vps)** — full-stack app on a server I run myself: Nginx, PM2, Cloudflare Tunnel and push-to-deploy. &nbsp;`Node` `Express` `PostgreSQL` `Docker` `CI/CD`
+- **[Digital Circus STEM](https://github.com/Misstery13/digitalcircus-STEM)** — web + AR escape room with voice, gesture and face interaction, and an AI NPC that talks back. &nbsp;`JS` `Python` `MediaPipe` `LLM`
+- **[Ruta Viva](https://github.com/Misstery13/ruta-viva-turismo-inteligente)** — tourism interface with a chatbot and hand tracking · [live demo](https://misstery13.github.io/ruta-viva-turismo-inteligente/). &nbsp;`JS` `MediaPipe`
+- **[Syncopation](https://github.com/Misstery13/Syncopation)** — arcade rhythm-fighting game with original art and music. &nbsp;`TypeScript` `Phaser 3`
 
-- **SGA** — an academic management system in **TypeScript + React** for the technology institute at the Salinas naval base (students, teachers, grades, academic structure).
-- **UPSE Software Club** — founded it in 2026, now ~15 members. We run community tournaments and build projects for the university.
-
-### 💼 Where I've worked
-
-- **KORIGEN** — QA & full-stack intern. Built the reporting features and several modules of an omnichannel advertising-campaign platform used by multiple client companies (Java + JavaScript).
-- **ICOMPUTEC** (Arequipa, Perú) — outsourced IT support: data recovery and hardware repair.
-- **Freelance since 2022** — delivered an AI VTuber streaming system to clients: LLM responses via OpenRouter, ElevenLabs text-to-speech, sentiment-driven expressions and live chat from YouTube, Twitch and TikTok.
-
----
-
-### 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Todo VPS](https://github.com/Misstery13/Diana-todo-vps)** | Full-stack app on a server I administer myself: Nginx, PM2, PostgreSQL, Cloudflare Tunnel (no inbound ports) and push-to-deploy with a GitHub Actions self-hosted runner | `JS` `Express` `PostgreSQL` `Docker` `CI/CD` |
-| **[Digital Circus STEM](https://github.com/Misstery13/digitalcircus-STEM)** | Gamified web + AR escape room with voice commands, hand gestures, facial expressions and an AI-powered NPC that talks back | `JS` `Python` `MediaPipe` `LLM` `TTS` |
-| **[Ruta Viva](https://github.com/Misstery13/ruta-viva-turismo-inteligente)** | Multimodal tourism interface with a parameterized chatbot and MediaPipe hand tracking — [live demo](https://misstery13.github.io/ruta-viva-turismo-inteligente/) | `JS` `MediaPipe` `HCI` |
-| **[Syncopation](https://github.com/Misstery13/Syncopation)** | Arcade rhythm-fighting game with original art and music | `TypeScript` `Phaser 3` |
-| **[ExcelAuto](https://github.com/Misstery13/Assistance-Register)** | CLI that reconciles official student rosters against Zoom attendance exports with fuzzy name matching | `Python` `pandas` `openpyxl` |
-| **[Proyecto Donantes](https://github.com/Misstery13/Proyecto_Donantes)** | Desktop app to manage blood-donation campaigns, donors and personnel | `VB.NET` `.NET 6` `MySQL` |
-
-> Some of my work lives in private repos: an **AI VTuber** product packaged for clients, **Discord tournament bots** integrated with the Challonge API that automated registration for 100+ players, and an **Angular 17** landing page with a registration form. Happy to walk through any of them.
-
----
+Private work I'm happy to walk through: an **AI VTuber** system delivered to clients (LLM + text-to-speech + live chat from three platforms), and **Discord bots** that automated tournament registration for 100+ players.
 
 ### 🛠️ Stack
 
-**Languages** `TypeScript` `JavaScript` `Python` `Java` `C++` `C#/VB.NET` `SQL`
+`TypeScript` `JavaScript` `Python` `Java` `C++` `SQL` <br>
+`React` `Angular` `Node.js` `Express` `PostgreSQL` `MySQL` <br>
+`Linux` `Docker` `Nginx` `GitHub Actions` · AI APIs and agentic coding with `Claude Code`
 
-**Frontend** `React` `Angular` `Ionic` `HTML/CSS/SCSS` `Phaser 3`
+### 🔭 Right now
 
-**Backend & data** `Node.js` `Express` `PostgreSQL` `MySQL` `REST APIs`
+Building an academic management system in **TypeScript + React** for a technology institute, and coordinating the software club I founded at UPSE.
 
-**Infra** `Linux` `Docker` `Nginx` `PM2` `GitHub Actions` `Cloudflare Tunnel`
-
-**AI** `LLM APIs (OpenRouter)` `ElevenLabs TTS` `MediaPipe` · agentic coding with `Claude Code` `Codex` `Gemini` `OpenCode`
-
----
-
-### 📜 Certifications
-
-`PCAP — Python (OpenEDG)` · `CCNA: Introduction to Networks (Cisco)` · `Software Architecture (U. of Alberta)` · `OOP in Java (U. de los Andes)` · `SCRUM Fundamentals`
-
----
-
-
-<p align="center"><sub>🇪🇨 Santa Elena, Ecuador · Spanish (native) · English (B2)</sub></p>
-<img src="./github-metrics.svg" alt="Metrics">
+<p align="center"><sub>Spanish (native) · English (B2) · PCAP Python · CCNA: Introduction to Networks</sub></p>
